@@ -1,0 +1,19 @@
+{
+  "name": "VuePress",
+  "version": "0.0.1",
+  "description": "blog website",
+  "main": "index.js",
+  "authors": {
+    "name": "Minh",
+    "email": "buiminh2000@gmail.com"
+  },
+  "repository": "https://github.com/buiminh1995/VuePress.git/VuePress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
